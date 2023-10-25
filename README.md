@@ -1,3 +1,6 @@
+About:
+  [CV](https://github.com/rafetefe/files/blob/main/RafetEfeGazanfer.pdf), [CL](https://github.com/rafetefe/files/blob/main/coverLetterMain.pdf)
+
 * CLRS
 * SICP (Js, Lisp)
 * Pragmatic Programmer, Mystical Man Moth
