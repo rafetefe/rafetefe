@@ -1,8 +1,10 @@
-About:
-  Backend Dev.
-  Stacks: Java: Spring, Python: FastAPI, Javascript: Nestjs
+  About:
 
-  Aiming expertise in microservice design and catch up with the state of the art backend practices. 
+    Backend Dev. 
+    Stacks: Java: Spring, Python: FastAPI, Javascript: Nestjs
+
+  Aiming expertise in microservice design and catch up with the state of the art backend practices.
+  
   The next-next goal is backend for data pipelines (etl elt) and big data.
 
   I also like to think about testing. Like [antithesis](https://antithesis.com/) level of thinking thinking
