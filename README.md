@@ -5,7 +5,7 @@
 
   Aiming expertise in microservice design and catch up with the state of the art backend practices.
   
-  The next-next goal is backend for data pipelines (etl elt) and big data.
+  The next-next goal is backend for data pipelines for big data.
 
   I also like to think about testing. Like [antithesis](https://antithesis.com/) level of thinking thinking
   
