@@ -1,5 +1,4 @@
-
-    Backend Dev. 
+ 
     Stacks: Java: Spring, Python: FastAPI, Javascript: Nestjs
 
   Aiming expertise in highly scalable designs and catch up with the state of the art backend practices.
