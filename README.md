@@ -1,4 +1,3 @@
-  About:
 
     Backend Dev. 
     Stacks: Java: Spring, Python: FastAPI, Javascript: Nestjs
