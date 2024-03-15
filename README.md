@@ -3,11 +3,7 @@
     Backend Dev. 
     Stacks: Java: Spring, Python: FastAPI, Javascript: Nestjs
 
-  Aiming expertise in microservice design and catch up with the state of the art backend practices.
-  
-  The next-next goal is backend for data pipelines for big data.
-
-  I also like to think about testing. Like [antithesis](https://antithesis.com/) level of thinking thinking
+  Aiming expertise in highly scalable designs and catch up with the state of the art backend practices.
   
   [CV](https://github.com/rafetefe/files/blob/main/RafetEfeGazanfer.pdf)
 
