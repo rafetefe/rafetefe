@@ -1,9 +1,5 @@
- 
-    Avaliable Stacks: Java: Spring, Python: FastAPI, Javascript: Nestjs
-
-  Aiming expertise in highly scalable designs and catch up with the state of the art backend practices.
   
-  [CV](https://github.com/rafetefe/files/blob/main/RafetEfeGazanfer.pdf)
+   chilling in dom0
 
 <!--
 **rafetefe/rafetefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
